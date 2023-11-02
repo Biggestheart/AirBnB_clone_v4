@@ -154,7 +154,7 @@ f15e12c0-0425-4251-b4cf-af190f6a6247
 No known bugs at this time. 
 
 ## Authors
-Demiso Daba - [Github](https://github.com/DemisoDaba) / [Twitter](https://twitter.com/DemoNkmt1)  
-Godson-[Github](https://github.com/GodsonO)
+Essien Anietie - [Github](https://github.com/Biggestheart) / [Twitter](https://twitter.com/AnietieLEssien)  
+Roseline Dangazela-[Github](https://github.com/LynneDC)
 ## License
 Public Domain. No copy write protection. 
